@@ -15,8 +15,8 @@ Traditional DSPG transformation methods prioritize uncertainty reduction, but th
 To run the code, simply clone the repository and make sure you have a LaTeX editor to compile the algorithm documentation.
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/Ouatt-Isma/Directed-Series-Parallel-Graph-Synthesis.git
+cd Directed-Series-Parallel-Graph-Synthesis
 ```
 
 
